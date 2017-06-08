@@ -62,7 +62,7 @@ var model = process.env.model;
 var LocationKey = "DefaultLocation";
 var ShippingStyleKey = "Shipping Style";
 var async = require("async");
-var recognizer = new builder.LuisRecognizer('https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/fd9a76fa-9d70-47e3-828c-33ef63fa039f?subscription-key=44f469a6bc1c4aa1bc5d2d98a7f02b11');
+var recognizer = new builder.LuisRecognizer('https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/fd9a76fa-9d70-47e3-828c-33ef63fa039f?subscription-key=9aefdc1486b744049db504427816d708');
 
 
 
